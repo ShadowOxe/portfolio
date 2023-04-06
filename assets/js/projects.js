@@ -10,7 +10,7 @@ let render_projects = (slug) => {
     $(`#${slug}`).addClass('white-button-hover');
 
     let projects_obj = [
-        {
+        /*{
             image: 'assets/images/mentors.jpg',
             link: 'https://github.com/abhn/Mporter',
             title: 'Mporter',
@@ -153,6 +153,46 @@ let render_projects = (slug) => {
             technologies: ['Electron', 'Javascript'],
             description: "A cross-platform desktop application that serves as a Wolfram Alpha query place and notes taker.",
             categories: ['native']
+        },*/
+        {
+            image: 'assets/images/Bypass Filter.png',
+            title: 'Bypass Filter',
+            demo: '',
+            technologies: ['SolidWorks'],
+            description: "Bypass filter assembly drawing.",
+            categories: ['engineering drawing']
+        },
+{
+            image: 'assets/images/Centrifugal Compressor blade.png',
+            title: 'Centrifugal Compressor blade',
+            demo: '',
+            technologies: ['SolidWorks'],
+            description: "Centrifugal compressor impeller with blade Engineering drawing.",
+            categories: ['engineering drawing']
+        },
+{
+            image: 'assets/images/Coffee Grinder.jpg',
+            title: 'Coffee Grinder',
+            demo: '',
+            technologies: ['Inventor'],
+            description: "A 3d render of manual coffee grinder. ",
+            categories: ['3d models']
+        },
+{
+            image: 'assets/images/Four Bar Linkage.png',
+            title: 'Four Bar Linkage',
+            demo: '',
+            technologies: ['AutoCAD'],
+            description: "Four bar linkage assembly drawing.",
+            categories: ['engineering drawing']
+        },
+{
+            image: 'assets/images/Pipe Thread.png.png',
+            title: 'Pipe',
+            demo: '',
+            technologies: ['SolidWorks'],
+            description: "Pipe thread engineering drawing.",
+            categories: ['engineering drawing']
         },
     ]
 
