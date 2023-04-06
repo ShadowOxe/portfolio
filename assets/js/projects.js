@@ -187,7 +187,7 @@ let render_projects = (slug) => {
             categories: ['engineering drawing']
         },
 {
-            image: 'assets/images/Pipe Thread.png.png',
+            image: 'assets/images/Pipe Thread.png',
             title: 'Pipe',
             demo: false,
             technologies: ['SolidWorks'],
