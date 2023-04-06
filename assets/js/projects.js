@@ -156,6 +156,7 @@ let render_projects = (slug) => {
         },*/
         {
             image: 'assets/images/Bypass Filter.png',
+            link: false,
             title: 'Bypass Filter',
             demo: false,
             technologies: ['SolidWorks'],
@@ -164,6 +165,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Centrifugal Compressor blade.png',
+            link: false,
             title: 'Centrifugal Compressor blade',
             demo: false,
             technologies: ['SolidWorks'],
@@ -172,6 +174,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Coffee Grinder.jpg',
+            link: false,
             title: 'Coffee Grinder',
             demo: false,
             technologies: ['Inventor'],
@@ -180,6 +183,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Four Bar Linkage.png',
+            link: false,
             title: 'Four Bar Linkage',
             demo: false,
             technologies: ['AutoCAD'],
@@ -188,6 +192,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Pipe Thread.png',
+            link: false,
             title: 'Pipe',
             demo: false,
             technologies: ['SolidWorks'],
