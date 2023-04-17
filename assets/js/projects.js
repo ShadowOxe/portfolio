@@ -193,11 +193,20 @@ let render_projects = (slug) => {
 {
             image: 'assets/images/Pipe Thread.png',
             link: false,
-            title: 'Pipe',
+            title: 'Pipe Thread',
             demo: false,
             technologies: ['SolidWorks'],
             description: "Pipe thread engineering drawing.",
             categories: ['engineering drawing']
+        },
+{
+            image: 'assets/images/Motorize Mini Taffy Puller.png',
+            link: false,
+            title: 'Motorize Mini Taffy Puller',
+            demo: 'https://drive.google.com/file/d/1E5UG4XRz1ILPLJOqI3kxO0o1owwsUulZ/view?usp=sharing',
+            technologies: ['AutoCAD'],
+            description: "Motorize mini taffy puller 3d render and video demo.",
+            categories: ['3d models']
         },
     ]
 
