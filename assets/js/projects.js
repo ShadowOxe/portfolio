@@ -170,7 +170,7 @@ let render_projects = (slug) => {
             demo: false,
             technologies: ['SolidWorks'],
             description: "Centrifugal compressor impeller with blade Engineering drawing.",
-            categories: ['engineering drawing']
+            categories: ['featured','engineering drawing']
         },
 {
             image: 'assets/images/Coffee Grinder.jpg',
@@ -179,7 +179,7 @@ let render_projects = (slug) => {
             demo: 'https://drive.google.com/file/d/1N5mrCab5JwRka2ERP04QllMrg2DIbZhE/view?usp=sharing',
             technologies: ['SolidWorks'],
             description: "A 3d render of manual coffee grinder and demo.",
-            categories: ['featured,3d models']
+            categories: ['featured','3d models']
         },
 {
             image: 'assets/images/Four Bar Linkage.png',
@@ -206,7 +206,7 @@ let render_projects = (slug) => {
             demo: 'https://drive.google.com/file/d/1GiRx3iL_xoBxWtZ_x1QohPDSXDMLbDFp/view?usp=sharing',
             technologies: ['AutoCAD'],
             description: "Motorize mini taffy puller 3d render and video demo.",
-            categories: ['featured,3d models']
+            categories: ['featured','3d models']
         },
     ]
 
