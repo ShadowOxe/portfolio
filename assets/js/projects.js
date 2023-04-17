@@ -156,7 +156,7 @@ let render_projects = (slug) => {
         },*/
         {
             image: 'assets/images/Bypass Filter.png',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Bypass%20Filter.png',
             title: 'Bypass Filter',
             demo: false,
             technologies: ['SolidWorks'],
@@ -165,7 +165,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Centrifugal Compressor blade.png',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Centrifugal%20Compressor%20blade.png',
             title: 'Centrifugal Compressor blade',
             demo: false,
             technologies: ['SolidWorks'],
@@ -174,10 +174,10 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Coffee Grinder.jpg',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Coffee%20Grinder.jpg',
             title: 'Coffee Grinder',
-            demo: false,
-            technologies: ['Inventor'],
+            demo: 'https://drive.google.com/file/d/1qDiLctwa63IsFYr_NTCGnUs6q_qYmDQ-/view?usp=sharing',
+            technologies: ['SolidWorks'],
             description: "A 3d render of manual coffee grinder. ",
             categories: ['3d models']
         },
@@ -186,7 +186,7 @@ let render_projects = (slug) => {
             link: false,
             title: 'Four Bar Linkage',
             demo: false,
-            technologies: ['AutoCAD'],
+            technologies: ['Inventor'],
             description: "Four bar linkage assembly drawing.",
             categories: ['engineering drawing']
         },
