@@ -156,7 +156,7 @@ let render_projects = (slug) => {
         },*/
         {
             image: 'assets/images/Bypass Filter.png',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Bypass%20Filter.png',
+            link: 'https://drive.google.com/file/d/1azvqeopjZmFF508odwoNUY92IqiM40OZ/view?usp=share_link',
             title: 'Bypass Filter',
             demo: false,
             technologies: ['SolidWorks'],
@@ -165,7 +165,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Centrifugal Compressor blade.png',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Centrifugal%20Compressor%20blade.png',
+            link: 'https://drive.google.com/file/d/1R1bo2xV6q4P_H2pTDeLxicBtymLXl9QW/view?usp=sharing',
             title: 'Centrifugal Compressor blade',
             demo: false,
             technologies: ['SolidWorks'],
@@ -174,7 +174,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Coffee Grinder.jpg',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Coffee%20Grinder.jpg',
+            link: 'https://drive.google.com/file/d/1UqgXIH12s3TtI22bmVHEKj5Nfx3f36Ot/view?usp=sharing',
             title: 'Coffee Grinder',
             demo: 'https://drive.google.com/file/d/1N5mrCab5JwRka2ERP04QllMrg2DIbZhE/view?usp=sharing',
             technologies: ['SolidWorks'],
@@ -183,7 +183,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Four Bar Linkage.png',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Four%20Bar%20Linkage.png',
+            link: 'https://drive.google.com/file/d/1LgjsgtEINg3M4v7dkKSX7zQHH1lP6ZM0/view?usp=sharing',
             title: 'Four Bar Linkage',
             demo: false,
             technologies: ['Inventor'],
@@ -192,7 +192,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Pipe Thread.png',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Pipe%20Thread.png',
+            link: 'https://drive.google.com/file/d/1wuGIayrrjfgc2cdrJ_V-D_DwF1duI2It/view?usp=sharing',
             title: 'Pipe Thread',
             demo: false,
             technologies: ['SolidWorks'],
@@ -201,7 +201,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Motorize Mini Taffy Puller.png',
-            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Motorize%20Mini%20Taffy%20Puller.png',
+            link: 'https://drive.google.com/file/d/1Wg-xHy9dHGoOofNwRygdRqKrS67eHRj_/view?usp=share_link',
             title: 'Motorize Mini Taffy Puller',
             demo: 'https://drive.google.com/file/d/1GiRx3iL_xoBxWtZ_x1QohPDSXDMLbDFp/view?usp=sharing',
             technologies: ['AutoCAD'],
