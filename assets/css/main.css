@@ -207,7 +207,7 @@ img {
 
 .section-wrapper:nth-child(odd) {
   background: url(../images/background.jpg);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat round;
 }
 
 .section-wrapper:nth-child(odd) .section-heading {
@@ -283,7 +283,7 @@ img {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
   background: url(../images/background.jpg);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat round;
   background-attachment: fixed;
 }
 
@@ -424,7 +424,7 @@ img {
 
 #nav {
   background: url(../images/background.jpg);
-  background-repeat: no-repeat;
+  background-repeat: no-repeat round;
 }
 
 a {
