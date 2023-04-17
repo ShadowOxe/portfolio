@@ -283,7 +283,7 @@ img {
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
   background: url(../images/background.png);
-  background-repeat: repeat;
+  background-repeat: round;
   background-attachment: fixed;
 }
 
