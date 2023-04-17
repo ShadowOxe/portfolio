@@ -206,7 +206,7 @@ img {
 }
 
 .section-wrapper:nth-child(odd) {
-  background: url(../images/background.webp);
+  background: url(../images/background.png);
   background-repeat: repeat;
 }
 
@@ -282,7 +282,7 @@ img {
   color: #fff;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
 
-  background: url(../images/background.webp);
+  background: url(../images/background.png);
   background-repeat: repeat;
   background-attachment: fixed;
 }
