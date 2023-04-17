@@ -178,8 +178,8 @@ let render_projects = (slug) => {
             title: 'Coffee Grinder',
             demo: 'https://drive.google.com/file/d/1N5mrCab5JwRka2ERP04QllMrg2DIbZhE/view?usp=sharing',
             technologies: ['SolidWorks'],
-            description: "A 3d render of manual coffee grinder. ",
-            categories: ['3d models']
+            description: "A 3d render of manual coffee grinder and demo.",
+            categories: ['featured,3d models']
         },
 {
             image: 'assets/images/Four Bar Linkage.png',
@@ -206,7 +206,7 @@ let render_projects = (slug) => {
             demo: 'https://drive.google.com/file/d/1GiRx3iL_xoBxWtZ_x1QohPDSXDMLbDFp/view?usp=sharing',
             technologies: ['AutoCAD'],
             description: "Motorize mini taffy puller 3d render and video demo.",
-            categories: ['3d models']
+            categories: ['featured,3d models']
         },
     ]
 
