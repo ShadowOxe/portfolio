@@ -176,14 +176,14 @@ let render_projects = (slug) => {
             image: 'assets/images/Coffee Grinder.jpg',
             link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Coffee%20Grinder.jpg',
             title: 'Coffee Grinder',
-            demo: 'https://drive.google.com/file/d/1qDiLctwa63IsFYr_NTCGnUs6q_qYmDQ-/view?usp=sharing',
+            demo: 'https://drive.google.com/file/d/1N5mrCab5JwRka2ERP04QllMrg2DIbZhE/view?usp=sharing',
             technologies: ['SolidWorks'],
             description: "A 3d render of manual coffee grinder. ",
             categories: ['3d models']
         },
 {
             image: 'assets/images/Four Bar Linkage.png',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Four%20Bar%20Linkage.png',
             title: 'Four Bar Linkage',
             demo: false,
             technologies: ['Inventor'],
@@ -192,7 +192,7 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Pipe Thread.png',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Pipe%20Thread.png',
             title: 'Pipe Thread',
             demo: false,
             technologies: ['SolidWorks'],
@@ -201,9 +201,9 @@ let render_projects = (slug) => {
         },
 {
             image: 'assets/images/Motorize Mini Taffy Puller.png',
-            link: false,
+            link: 'https://github.com/ShadowOxe/shadowoxe.github.io/blob/master/assets/images/Motorize%20Mini%20Taffy%20Puller.png',
             title: 'Motorize Mini Taffy Puller',
-            demo: 'https://drive.google.com/file/d/1E5UG4XRz1ILPLJOqI3kxO0o1owwsUulZ/view?usp=sharing',
+            demo: 'https://drive.google.com/file/d/1GiRx3iL_xoBxWtZ_x1QohPDSXDMLbDFp/view?usp=sharing',
             technologies: ['AutoCAD'],
             description: "Motorize mini taffy puller 3d render and video demo.",
             categories: ['3d models']
