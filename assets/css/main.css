@@ -38,6 +38,7 @@ img {
   font-size: 3.5rem;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
+  text-align: center;
 }
 
 .animated {
@@ -125,7 +126,7 @@ img {
 }
 
 .justify-text {
-  text-align: center;
+  text-align: justify;
 }
 
 .progress-bars {
