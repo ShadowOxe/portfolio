@@ -32,7 +32,6 @@ img {
 
 .head-title {
   text-align: center;
-  display: inline-block;
   -webkit-transition: color ease-in-out 0.3s;
   transition: color ease-in-out 0.3s;
   font-size: 56px;
