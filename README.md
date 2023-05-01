@@ -13,4 +13,4 @@ A simple and modern portfolio template which is lightweight, mobile responsive a
 - You can add/remove sections from the `_layouts/default.html` file, and then adding the corresponding html file in `_includes/` directory.
 
 Credit:
-This repository is a clone of the [original website](https://github.com/abhn/portfolio) from [@abhn](https://github.com/abhn) edited for my personal use. 
+This repository is a clone of the [original portfolio](https://github.com/abhn/portfolio) from [@abhn](https://github.com/abhn) edited for my personal use. 
