@@ -31,6 +31,7 @@ img {
 }
 
 .head-title {
+  text-align: center;
   display: inline-block;
   -webkit-transition: color ease-in-out 0.3s;
   transition: color ease-in-out 0.3s;
@@ -38,7 +39,7 @@ img {
   font-size: 3.5rem;
   font-family: 'PT Sans', Arial, Helvetica, sans-serif;
   font-weight: bold;
-  text-align: center;
+  
 }
 
 .animated {
